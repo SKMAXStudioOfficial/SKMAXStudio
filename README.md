@@ -16,16 +16,22 @@ Hi there! I'm **[Your Name]**, a passionate **developer** and **content creator*
 ## My Skills 🛠️
 
 ### Programming Languages
-- <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" style="border-radius: 10px;"/>
-- <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 10px;"/>
-- <img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 10px;"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/-HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift" style="border-radius: 30px;"/>
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" style="border-radius: 30px;"/>
+</div>
 
-### Tools and Frameworks
-- <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" style="border-radius: 10px;"/>
-- <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" style="border-radius: 10px;"/>
-- <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" alt="Django" style="border-radius: 10px;"/>
 
----
 
 ## Projects 🔥
 
