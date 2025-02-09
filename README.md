@@ -1,6 +1,6 @@
-![GitHub Banner](https://github.com/skmaxstudioofficial/skmaxstudioofficial/blob/main/banner.png)
+![GitHub Banner](https://github.com/skmaxstudioofficial/skmaxstudioofficial/blob/main/skmax.png)
 
-<h1 align="center">Hi there, I'm SKMAX STUDIO OFFICIAL</h1>
+<h1 align="center">Hi there, I'm SKMAX STUDIO OFFICIAL™</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%23F7F7F7&size=22&center=true&vCenter=true&width=600&lines=Passionate+Developer;Game+Developer;Content+Creator;Open+Source+Enthusiast" />
